@@ -27,4 +27,4 @@ dependencies:
   mobile_scanner: ^<latest_version>
 ```
 
-<img width="606" alt="Screenshot of the application" src="https://www.salephpscripts.com/assets/qr-code-scanner-promo.gif">
+![QR-codes canner demonstration](/assets/user-images.githubusercontent.com)
