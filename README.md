@@ -27,4 +27,4 @@ dependencies:
   mobile_scanner: ^<latest_version>
 ```
 
-![QR-codes canner demonstration](/assets/user-images.githubusercontent.com)
+![QR-codes scanner demonstration](/assets/qr-code-scanner-promo.gif)
